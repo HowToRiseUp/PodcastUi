@@ -1,3 +1,4 @@
+@use "../abstracts" as abs;
 body {
-    font-family: $font-family;
+  font-family: abs.$font-family;
 }
